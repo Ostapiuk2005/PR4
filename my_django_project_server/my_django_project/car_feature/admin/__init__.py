@@ -1,0 +1,1 @@
+from car_feature.admin.car_feature import CarFeatureAdmin

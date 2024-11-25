@@ -1,0 +1,1 @@
+from car_feature.models.car_feature import CarFeature

@@ -1,0 +1,1 @@
+from car.admin.car import CarAdmin
